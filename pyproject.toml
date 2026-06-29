@@ -1,0 +1,9 @@
+[project]
+name = "eslite-stock"
+version = "0.1.0"
+description = "誠品線上庫存查詢工具"
+requires-python = ">=3.11"
+dependencies = [
+    "curl-cffi>=0.7",
+    "rich>=13",
+]
