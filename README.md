@@ -62,3 +62,7 @@ Claude Code Vibe Coding開發手冊 (第2版)
 | `--watch 秒` | 每隔指定秒數重新查詢，持續刷新畫面 |
 | `--json` | 輸出完整原始 JSON，不進行格式化 |
 
+## 技術細節
+
+背後如何繞過 Cloudflare 防護、組出可用的 API 請求等實作細節，請參閱 [TECHNICAL_REPORT.md](./TECHNICAL_REPORT.md)。
+
